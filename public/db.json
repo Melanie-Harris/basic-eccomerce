@@ -1,0 +1,125 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "sku": 18644119330491312,
+            "title": "Sun Flower and Dandelion Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "X",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "price": 10.99,
+            "isFreeShipping": true
+        },
+        {
+            "id": 2,
+            "sku": 11854078013954528,
+            "title": "Imperial Dragon Ball Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "M",
+                "L"
+            ],
+            "price": 15.99,
+            "isFreeShipping": true
+        },
+        {
+            "id": 3,
+            "sku": 876661122392077,
+            "title": "Rosemary Blossom Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "X",
+                "L",
+                "XXL"
+            ],
+            "price": 10.99,
+            "isFreeShipping": true
+        },
+        {
+            "id": 4,
+            "sku": 9197907543445677,
+            "title": "Ceremonial Grade Matcha",
+            "description": "Yummy",
+            "availableSizes": [
+                "M",
+                "XL"
+            ],
+            "price": 25.99,
+            "isFreeShipping": false
+        },
+        {
+            "id": 5,
+            "sku": 10547961582846888,
+            "title": "Jasmine Mint Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "price": 10.99,
+            "isFreeShipping": false
+        },
+        {
+            "id": 6,
+            "sku": 10547961582846888,
+            "title": "Moroccan Mint Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "M",
+                "L",
+                "XL"
+            ],
+            "price": 11.99,
+            "isFreeShipping": false
+        },
+  
+        {
+            "id": 7,
+            "sku": 6090484789343891,
+            "title": "Rose Pedal Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "XL",
+                "XXL",
+                "M"
+            ],
+            "price": 11.99,
+            "isFreeShipping": false
+        },
+        
+        {
+            "id": 8,
+            "sku": 18532669286405342,
+            "title": "Lavender Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "X"
+            ],
+            "style": "?",
+            "price": 11.99,
+            "isFreeShipping": true
+        },
+        {
+            "id": 9,
+            "sku": 5619496040738316,
+            "title": "Citrus Blend Tea",
+            "description": "Yummy",
+            "availableSizes": [
+                "XL",
+                "X",
+                "S"
+            ],
+            "style": "?",
+            "price": 10.99,
+            "isFreeShipping": false
+        }
+       
+        
+        
+    ]
+}
